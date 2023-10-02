@@ -13,16 +13,18 @@ Constraint Gradient Approximation (CGA) modules for approximating (the gradient 
 
 ## Network Architecture
 
-<center class="half">
-    <img src="./figs/overall.jpg" width=100%/>
-</center>
-<center style="font-size:14px;color:#C0C0C0;">Figure 1. Illustration of the CT-Net network architecture.</center> 
+<p align="center">
+    <img src="./figs/overall.jpg" width="100%"\>
+    <br> Figure 1. Illustration of the CT-Net network architecture.
+</p>
+<p align="center">
 
+<p align="center">
+    <img src="./figs/recovery.jpg" width="70%"\>
+    <br> Figure 2. Illustration of the reconstruction stage k.
+</p>
+<p align="center">
 
-<center class="half">
-    <img src="./figs/recovery.jpg" width=70%/>
-</center>
-<center style="font-size:14px;color:#C0C0C0;">Figure 2. Illustration of the reconstruction stage k.</center> 
 
 ## Test
 
