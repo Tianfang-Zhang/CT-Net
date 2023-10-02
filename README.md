@@ -77,10 +77,12 @@ python scripts/train_ctnet.py --cs-ratio {$cs_ratio} --stage-num 15
 
 ## Result
 
-<center style="font-size:14px;color:#C0C0C0;">Table 1. Comparison of average PSNR/SSIM for different CS ratios on Set11, BSD68 and Urban100.</center> 
-<center class="half">
-    <img src="./figs/compare.jpg" width=1000%/>
-</center>
+<p align="center">
+    Table 1. Comparison of average PSNR/SSIM for different CS ratios on Set11, BSD68 and Urban100.<br>
+    <img src="./figs/compare.jpg" width="100%"\>
+</p>
+<p align="center">
+
 
 
 ## Citation
